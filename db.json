@@ -1,0 +1,464 @@
+{
+  "groups": [
+    {
+      "location": "Doe's house",
+      "leader": "Janet Doe",
+      "campus": "Keller",
+      "meetTime": "12:45 pm",
+      "kind": "Men's",
+      "carouselImage": "/images/carousel/jumper-01.jpg",
+      "altText": "2018 Jumper J-1",
+      "caption": "2018 Jumper J-1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper quam eu velit commodo sagittis. Nam at massa finibus, placerat nulla ac, aliquam mauris. Aenean a libero id odio molestie consectetur id vitae felis. Curabitur vitae lectus consequat, vestibulum orci ut, pulvinar dui. Curabitur cursus cursus tortor gravida tempus. Phasellus eget sagittis lorem. Integer elementum, diam vel sagittis tincidunt, arcu velit sollicitudin mi, eu molestie purus nisl in nulla. Fusce volutpat metus ut metus rhoncus aliquam.",
+      "detailKey": "jumper",
+      "minAge": 20,
+      "maxAge": 40,
+      "childCare": "No",
+      "dayOfWeek": "Tuesday"
+    },
+    {
+      "location": "Lucas's house",
+      "leader": "Lucas Jean",
+      "campus": "Keller",
+      "meetTime": "12:45 pm",
+      "kind": "Couples",
+      "carouselImage": "/images/carousel/jumper-01.jpg",
+      "altText": "2018 Jumper J-1",
+      "caption": "2018 Jumper J-1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper quam eu velit commodo sagittis. Nam at massa finibus, placerat nulla ac, aliquam mauris. Aenean a libero id odio molestie consectetur id vitae felis. Curabitur vitae lectus consequat, vestibulum orci ut, pulvinar dui. Curabitur cursus cursus tortor gravida tempus. Phasellus eget sagittis lorem. Integer elementum, diam vel sagittis tincidunt, arcu velit sollicitudin mi, eu molestie purus nisl in nulla. Fusce volutpat metus ut metus rhoncus aliquam.",
+      "detailKey": "jumper",
+      "minAge": 20,
+      "maxAge": 40,
+      "childCare": "No",
+      "dayOfWeek": "Tuesday"
+    },
+    {
+      "location": "Moriah's house",
+      "leader": "Moriah Jean",
+      "campus": "Keller",
+      "meetTime": "12:45 pm",
+      "kind": "Young Adults",
+      "carouselImage": "/images/carousel/jumper-01.jpg",
+      "altText": "2018 Jumper J-1",
+      "caption": "2018 Jumper J-1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper quam eu velit commodo sagittis. Nam at massa finibus, placerat nulla ac, aliquam mauris. Aenean a libero id odio molestie consectetur id vitae felis. Curabitur vitae lectus consequat, vestibulum orci ut, pulvinar dui. Curabitur cursus cursus tortor gravida tempus. Phasellus eget sagittis lorem. Integer elementum, diam vel sagittis tincidunt, arcu velit sollicitudin mi, eu molestie purus nisl in nulla. Fusce volutpat metus ut metus rhoncus aliquam.",
+      "detailKey": "jumper",
+      "minAge": 20,
+      "maxAge": 40,
+      "childCare": "No",
+      "dayOfWeek": "Tuesday"
+    },
+    {
+      "location": "Moriah sister's house",
+      "leader": "Linda Jean",
+      "campus": "McKenny",
+      "meetTime": "12:45 pm",
+      "kind": "Young Adults",
+      "carouselImage": "/images/carousel/jumper-01.jpg",
+      "altText": "2018 Jumper J-1",
+      "caption": "2018 Jumper J-1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper quam eu velit commodo sagittis. Nam at massa finibus, placerat nulla ac, aliquam mauris. Aenean a libero id odio molestie consectetur id vitae felis. Curabitur vitae lectus consequat, vestibulum orci ut, pulvinar dui. Curabitur cursus cursus tortor gravida tempus. Phasellus eget sagittis lorem. Integer elementum, diam vel sagittis tincidunt, arcu velit sollicitudin mi, eu molestie purus nisl in nulla. Fusce volutpat metus ut metus rhoncus aliquam.",
+      "detailKey": "jumper",
+      "minAge": 20,
+      "maxAge": 40,
+      "childCare": "No",
+      "dayOfWeek": "Tuesday"
+    },
+    {
+      "location": "Bob's house",
+      "leader": "Robert Hallen",
+      "campus": "Keller",
+      "meetTime": "12:45 pm",
+      "kind": "Marriage",
+      "carouselImage": "/images/carousel/jumper-01.jpg",
+      "altText": "2018 Jumper J-1",
+      "caption": "2018 Jumper J-1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper quam eu velit commodo sagittis. Nam at massa finibus, placerat nulla ac, aliquam mauris. Aenean a libero id odio molestie consectetur id vitae felis. Curabitur vitae lectus consequat, vestibulum orci ut, pulvinar dui. Curabitur cursus cursus tortor gravida tempus. Phasellus eget sagittis lorem. Integer elementum, diam vel sagittis tincidunt, arcu velit sollicitudin mi, eu molestie purus nisl in nulla. Fusce volutpat metus ut metus rhoncus aliquam.",
+      "detailKey": "jumper",
+      "minAge": 20,
+      "maxAge": 40,
+      "childCare": "No",
+      "dayOfWeek": "Tuesday"
+    }
+  ],
+  "allCampus": [
+    {
+      "campus": "Keller",
+      "lat": 34.091158,
+      "lng": -118.2795188,
+      "group": [
+        {
+          "name": "Values 301",
+          "description": "We've designed this 7-week class with an intentional desire to help you learn more about the core values of Christion Living and develop meaningful relationship through a small group experience."
+        },
+        {
+          "name": "Empty Nesters",
+          "description": ""
+        },
+        {
+          "name": "Veteran's",
+          "description": ""
+        },
+        {
+          "name": "Marriage",
+          "description": ""
+        },
+        {
+          "name": "Couples",
+          "description": ""
+        },
+        {
+          "name": "Freedom",
+          "description": ""
+        },
+        {
+          "name": "Woman's",
+          "description": ""
+        },
+        {
+          "name": "Men's",
+          "description": ""
+        },
+        {
+          "name": "Singles",
+          "description": ""
+        },
+        {
+          "name": "Co-Ed",
+          "description": ""
+        },
+        {
+          "name": "FPU",
+          "description": ""
+        },
+        {
+          "name": "Restore",
+          "description": ""
+        },
+        {
+          "name": "Young Adult",
+          "description": ""
+        },
+        {
+          "name": "Students",
+          "description": ""
+        }
+      ],
+      "weekdays": [
+        {
+          "day": "Monday"
+        },
+        {
+          "day": "Tuesday"
+        },
+        {
+          "day": "Wednesday"
+        },
+        {
+          "day": "Thursday"
+        },
+        {
+          "day": "Friday"
+        },
+        {
+          "day": "Saterday"
+        },
+        {
+          "day": "Sunday"
+        }
+      ],
+      "agerange": [
+        {
+          "age": "18-20's"
+        },
+        {
+          "age": "30's"
+        },
+        {
+          "age": "40's"
+        },
+        {
+          "age": "50's"
+        },
+        {
+          "age": "60+"
+        },
+        {
+          "age": "Any"
+        }
+      ],
+      "childcare": [
+        {
+          "answer": "Yes"
+        },
+        {
+          "answer": "No"
+        }
+      ],
+      "timeframe": {
+        "morning": [
+          {
+            "time": "8 - 10 am",
+            "hour": 8
+          },
+          {
+            "time": "10 - 12 am",
+            "hour": 10
+          },
+          {
+            "time": "12 - 2 pm",
+            "hour": 12
+          }
+        ],
+        "afternoon": [
+          {
+            "time": "2 - 4 pm",
+            "hour": 14
+          },
+          {
+            "time": "4 - 5 pm",
+            "hour": 16
+          },
+          {
+            "time": "5 - 6 pm",
+            "hour": 17
+          }
+        ],
+        "evening": [
+          {
+            "time": "6 - 7 pm",
+            "hour": 18
+          },
+          {
+            "time": "7 - 8 pm",
+            "hour": 19
+          },
+          {
+            "time": "8 pm  +",
+            "hour": 20
+          }
+        ]
+      }
+    },
+    {
+      "campus": "McKenny",
+      "lat": 34.0771192,
+      "lng": -118.2587199,
+      "group": [
+        {
+          "name": "Values 301",
+          "description": "We've designed this 7-week class with an intentional desire to help you learn more about the core values of Christion Living and develop meaningful relationship through a small group experience."
+        },
+        {
+          "name": "Empty Nesters",
+          "description": ""
+        },
+        {
+          "name": "Veteran's",
+          "description": ""
+        },
+        {
+          "name": "Marriage",
+          "description": ""
+        },
+        {
+          "name": "Couples",
+          "description": ""
+        },
+        {
+          "name": "Freedom",
+          "description": ""
+        },
+        {
+          "name": "Woman's",
+          "description": ""
+        },
+        {
+          "name": "Men's",
+          "description": ""
+        },
+        {
+          "name": "Singles",
+          "description": ""
+        },
+        {
+          "name": "Co-Ed",
+          "description": ""
+        },
+        {
+          "name": "FPU",
+          "description": ""
+        },
+        {
+          "name": "Restore",
+          "description": ""
+        },
+        {
+          "name": "Young Adult",
+          "description": ""
+        },
+        {
+          "name": "Students",
+          "description": ""
+        }
+      ],
+      "weekdays": [
+        {
+          "day": "Monday"
+        },
+        {
+          "day": "Tuesday"
+        },
+        {
+          "day": "Wednesday"
+        },
+        {
+          "day": "Thursday"
+        },
+        {
+          "day": "Friday"
+        },
+        {
+          "day": "Saterday"
+        },
+        {
+          "day": "Sunday"
+        }
+      ],
+      "agerange": [
+        {
+          "age": "18-20's"
+        },
+        {
+          "age": "30's"
+        },
+        {
+          "age": "40's"
+        },
+        {
+          "age": "50's"
+        },
+        {
+          "age": "60+"
+        },
+        {
+          "age": "Any"
+        }
+      ],
+      "childcare": [
+        {
+          "answer": "Yes"
+        },
+        {
+          "answer": "No"
+        }
+      ],
+      "timeframe": {
+        "morning": [
+          {
+            "time": "8 - 10 am",
+            "hour": 8
+          },
+          {
+            "time": "10 - 12 am",
+            "hour": 10
+          },
+          {
+            "time": "12 - 2 pm",
+            "hour": 12
+          }
+        ],
+        "afternoon": [
+          {
+            "time": "2 - 4 pm",
+            "hour": 14
+          },
+          {
+            "time": "4 - 5 pm",
+            "hour": 16
+          },
+          {
+            "time": "5 - 6 pm",
+            "hour": 17
+          }
+        ],
+        "evening": [
+          {
+            "time": "6 - 7 pm",
+            "hour": 18
+          },
+          {
+            "time": "7 - 8 pm",
+            "hour": 19
+          },
+          {
+            "time": "8 pm  +",
+            "hour": 20
+          }
+        ]
+      }
+    }
+  ],
+  "dealerships": [
+    {
+      "dealershipName": "Slick Willy's Flying Cars",
+      "address": "555 Nearby St.  Ada, Oklahoma 74820",
+      "phone": "1-800-fly-cars"
+    },
+    {
+      "dealershipName": "Dewey, Cheatham, &amp; Howe Auto Sales",
+      "address": "123 Test St. Dallas Texas, 75001",
+      "phone": "1-800-pay-here"
+    },
+    {
+      "dealershipName": "Ima Crooke Flying Car Sales",
+      "address": "234 Booyah Ln. San Mateo California, 75001",
+      "phone": "1-888-fak-enum"
+    }
+  ],
+  "mailingList": [
+    {
+      "customerName": "Bruce Van Horn",
+      "email": "actual@contentfour.com",
+      "budget": "500000",
+      "phone": "9728036394",
+      "id": 1
+    },
+    {
+      "customerName": "Karina Van Horn",
+      "email": "test@test.com",
+      "budget": "50001",
+      "phone": "666-2345",
+      "id": 2
+    },
+    {
+      "customerName": "test",
+      "email": "test@test.com",
+      "budget": "50000",
+      "phone": "5552345",
+      "id": 3
+    },
+    {
+      "customerName": "test",
+      "email": "test@test.com",
+      "budget": "500000",
+      "phone": "test",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    }
+  ]
+}
