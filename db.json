@@ -195,6 +195,17 @@
           "answer": "No"
         }
       ],
+      "frequency": [
+        {
+          "answer": "Weekly"
+        },
+        {
+          "answer": "Bi-Weekly"
+        },
+        {
+          "answer": "Monthly"
+        }
+      ],
       "timeframe": {
         "morning": [
           {
@@ -353,6 +364,18 @@
           "answer": "No"
         }
       ],
+      "frequency": [
+        {
+          "answer": "Weekly"
+        },
+        {
+          "answer": "Bi-Weekly"
+        },
+        {
+          "answer": "Monthly"
+        }
+      ],
+
       "timeframe": {
         "morning": [
           {
