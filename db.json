@@ -165,6 +165,9 @@
         },
         {
           "day": "Sunday"
+        },
+        {
+          "day": "Any"
         }
       ],
       "agerange": [
@@ -334,6 +337,9 @@
         },
         {
           "day": "Sunday"
+        },
+        {
+          "day": "Any"
         }
       ],
       "agerange": [
